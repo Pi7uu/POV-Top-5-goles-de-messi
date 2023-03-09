@@ -1,0 +1,35 @@
+.fondo{
+    background-color: aquamarine;
+}
+
+.video1{
+    position: absolute;
+    right: 0%;
+    width:50%;
+    top: 30%;
+}
+
+.img1{
+    position: absolute;
+    width: 500px;
+    height: 380px;
+    top: 30%;
+}
+
+.titulo{
+    margin: auto;
+    display: block;
+    text-decoration: underline;
+}
+
+.top1{
+    text-decoration: underline;
+    margin: auto;
+    display: block;
+    top: 20%;
+}
+
+.parrafo1{
+    position: absolute;
+    top: 22%;
+}
